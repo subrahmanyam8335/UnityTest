@@ -1,2 +1,1 @@
-# UnityTest
-test with other ppl to work with GITHUB
+Hi intial set for this create the project and will contioue this project
